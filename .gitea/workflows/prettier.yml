@@ -1,0 +1,42 @@
+name: Prettier - Markdown
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.md'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**.md'
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Prettier
+        run: npm install --save-dev prettier
+
+      - name: Run Prettier
+        run: npx prettier --write "**/*.md"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: format markdown via Prettier"
