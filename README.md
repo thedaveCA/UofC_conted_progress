@@ -1,5 +1,6 @@
 # Scheduling - Courses
 
+
 ## Completed
 
 | Cert         | Course Name                       | Course                  | Start Date   | End Date     | Final Grade |
@@ -36,3 +37,21 @@ Classes that are not available, or I do not meet the prerequisites when the cour
 | `.NET` | Building Database Applications with Microsoft ADO.NET and C# | ICT 714 |
 | `.NET` | Building Advanced Web Applications with ASP.NET and C#       | ICT 715 |
 
+
+## Certificate / Program Overview
+
+### [Certificate in .NET Application Development](https://conted.ucalgary.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=30562134)
+
+[Professional Certificate](https://conted.ucalgary.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=30562134) — [Course Timetable](https://conted.ucalgary.ca/timetables/?certID=30562134) — [Recommended Learning Path](https://conted.ucalgary.ca/dotnet/dotnetappdev-flowchart.pdf)
+
+#### Costs - .NET Application Development
+
+$879 per course, approximate cost to complete the Certificate in .NET Application Development is $7,032. This includes the $105 admission fee.
+
+### [Certificate in IT Fundamentals](https://conted.ucalgary.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1706215)
+
+[Professional Certificate](https://conted.ucalgary.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1706215) — [Course Timetable](https://conted.ucalgary.ca/timetables/?certID=1706215) — [Recommended Learning Path](https://conted.ucalgary.ca/it/itfundamentals-flowchart.pdf)
+
+#### Costs - IT Fundamentals
+
+The approximate cost to complete the Certificate in IT Fundamentals is $3,516 to $4,395. This includes the $105 admission fee.
