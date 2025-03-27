@@ -1,6 +1,5 @@
 # Scheduling - Courses
 
-
 ## Completed
 
 | Cert         | Course Name                       | Course                  | Start Date   | End Date     | Final Grade |
@@ -36,7 +35,6 @@ Classes that are not available, or I do not meet the prerequisites when the cour
 | ------ | ------------------------------------------------------------ | ------- |
 | `.NET` | Building Database Applications with Microsoft ADO.NET and C# | ICT 714 |
 | `.NET` | Building Advanced Web Applications with ASP.NET and C#       | ICT 715 |
-
 
 ## Certificate / Program Overview
 
