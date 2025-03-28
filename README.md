@@ -15,6 +15,7 @@ Courses that I have paid for and am currently enrolled in.
 
 | Cert | Course Name | Course | Start Date | End Date | Days of the Week |
 | ---- | ----------- | ------ | ---------- | -------- | ---------------- |
+| `IT`, `.NET` | Computer Programming Level 2                            | [ICT 711 - 040](ICT711) | Apr 2, 2025  | Jun 4, 2025  | Wednesday         |
 
 ## Planned
 
@@ -22,7 +23,6 @@ Courses that I have not yet paid for, but intend to take in the future.
 
 | Cert         | Course Name                                             | Course                  | Start Date   | End Date     | Days of the Week  |
 | ------------ | ------------------------------------------------------- | ----------------------- | ------------ | ------------ | ----------------- |
-| `IT`, `.NET` | Computer Programming Level 2                            | [ICT 711 - 040](ICT711) | Apr 2, 2025  | Jun 4, 2025  | Wednesday         |
 | `.NET`       | Agile Software Development                              | [ICT 716 - 020](ICT716) | Apr 10, 2025 | Jun 12, 2025 | Thursday          |
 | `.NET`       | HTML5 and CSS3                                          | [ICT 580 - 054](ICT580) | Apr 15, 2025 | Jun 17, 2025 | Tuesday           |
 | `.NET`       | Building Web Applications with Microsoft ASP.NET and C# | [ICT 713 - 016](ICT713) | Jul 3, 2025  | Aug 5, 2025  | Tuesday, Thursday |
