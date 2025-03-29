@@ -1,28 +1,29 @@
 # Grading
 
-##  Grading System
+## Grading System
 
-| **Letter Grade** | **Percentage** | **Description**                                                                         |
-| ---------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A+**           | 95 – 100       | Outstanding                                                                                                                                  |
-| **A**            | 90 – 94        | Excellent| 
-| **A-**           | 85 – 89        | Approaching excellent                                                                                                                        |
-| **B+**           | 80 – 84        | Exceeding good                                                                                                                               |
-| **B**            | 75 – 79        | Good| 
-| **B-**           | 70 – 74        | Approaching good                                                                                                                             |
-| **C+**           | 67 – 69        | Exceeding satisfactory                                                                                                                       |
-| **C**            | 64 – 66        | 
-| **C-**           | 60 – 63        | 
-| **D+**           | 55 – 59        | Marginal pass                                                                                                                                |
-| **D**            | 50 – 54        | Minimal pass                                                                                                                                 |
-| **F**            | 0 – 49         | Fail                                                                                                                                         |
-| **AT**           | -              | Attendance Only                                                                                                                              |
-| **AU**           | -              | Audit: No course credit. approved                                                             |
-| **CR**           | -              | Completed Requirements                                                                                                                       |
-| **NC**           | -              | Not Complete:    |
-| **NS**           | -              | Not Subject to Grading or Attendance                                                                                                         |
+| **Letter Grade** | **Percentage** | **Description**                      |
+| ---------------- | -------------- | ------------------------------------ |
+| **A+**           | 95 – 100       | Outstanding                          |
+| **A**            | 90 – 94        | Excellent                            |
+| **A-**           | 85 – 89        | Approaching excellent                |
+| **B+**           | 80 – 84        | Exceeding good                       |
+| **B**            | 75 – 79        | Good                                 |
+| **B-**           | 70 – 74        | Approaching good                     |
+| **C+**           | 67 – 69        | Exceeding satisfactory               |
+| **C**            | 64 – 66        |
+| **C-**           | 60 – 63        |
+| **D+**           | 55 – 59        | Marginal pass                        |
+| **D**            | 50 – 54        | Minimal pass                         |
+| **F**            | 0 – 49         | Fail                                 |
+| **AT**           | -              | Attendance Only                      |
+| **AU**           | -              | Audit: No course credit. approved    |
+| **CR**           | -              | Completed Requirements               |
+| **NC**           | -              | Not Complete:                        |
+| **NS**           | -              | Not Subject to Grading or Attendance |
 
 ---
+
 ### Excellent
 
 - Superior performance, showing comprehensive understanding of subject matter.
@@ -35,7 +36,7 @@
 
 ### Satisfactory
 
-- Basic understanding of subject matter. 
+- Basic understanding of subject matter.
 - Minimum required in all courses to meet certificate program requirement
 
 ### Approaching Satisfactory
