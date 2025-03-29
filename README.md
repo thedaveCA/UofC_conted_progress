@@ -9,6 +9,8 @@
 | `IT`, `.NET` | Relational Databases Fundamentals | [ICT 128 - 090](ICT128) | Jan 15, 2025 | Mar 19, 2025 | A+          |
 | `IT`, `.NET` | Computer Programming Level 3      | [ICT 712 - 025](ICT712) | Feb 25, 2025 | Mar 27, 2025 |             |
 
+[[Grading](_courseinfo/grading.md)]
+
 ## Registered
 
 Courses that I have paid for and am currently enrolled in.
@@ -16,6 +18,7 @@ Courses that I have paid for and am currently enrolled in.
 | Cert         | Course Name                  | Course                  | Start Date  | End Date    | Days of the Week |
 | ------------ | ---------------------------- | ----------------------- | ----------- | ----------- | ---------------- |
 | `IT`, `.NET` | Computer Programming Level 2 | [ICT 711 - 040](ICT711) | Apr 2, 2025 | Jun 4, 2025 | Wednesday        |
+||AI Essentials: Building Fluency and Productivity with Modern AI Tool|[DGT 170 - 003](DGT170) |||Thursday
 
 ## Planned
 
@@ -35,6 +38,7 @@ Classes that are not available, or I do not meet the prerequisites when the cour
 | ------ | ------------------------------------------------------------ | ------- |
 | `.NET` | Building Database Applications with Microsoft ADO.NET and C# | ICT 714 |
 | `.NET` | Building Advanced Web Applications with ASP.NET and C#       | ICT 715 |
+
 
 ## Certificate / Program Overview
 
