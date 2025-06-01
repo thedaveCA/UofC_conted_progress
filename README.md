@@ -15,29 +15,22 @@
 
 Courses that I have paid for and am currently enrolled in.
 
-| Cert         | Course Name                                                          | Course                  | Start Date  | End Date    | Days of the Week |
-| ------------ | -------------------------------------------------------------------- | ----------------------- | ----------- | ----------- | ---------------- |
-| `IT`, `.NET` | Computer Programming Level 2                                         | [ICT 711 - 040](ICT711) | Apr 2, 2025 | Jun 4, 2025 | Wednesday        |
-|              | AI Essentials: Building Fluency and Productivity with Modern AI Tool | [DGT 170 - 003](DGT170) |             |             |                  |
+| Cert         | Course Name                                                          | Course                  | Start Date   | End Date     | Days of the Week |
+| ------------ | -------------------------------------------------------------------- | ----------------------- | ------------ | ------------ | ---------------- |
+| `IT`, `.NET` | Computer Programming Level 2                                         | [ICT 711 - 040](ICT711) | Apr 2, 2025  | Jun 4, 2025  | Wednesday        |
+| `.NET`       | HTML5 and CSS3                                                       | [ICT 580 - 054](ICT580) | Apr 15, 2025 | Jun 17, 2025 | Tuesday          |
+|              | AI Essentials: Building Fluency and Productivity with Modern AI Tool | [DGT 170 - 003](DGT170) |              |              |                  |
 
 ## Planned
 
-Courses that I have not yet paid for, but intend to take in the future.
+Courses I plan to take, but either have not registered, is not scheduled, or I do not meet the prerequisites.
 
-| Cert   | Course Name                                             | Course                  | Start Date   | End Date     | Days of the Week  |
-| ------ | ------------------------------------------------------- | ----------------------- | ------------ | ------------ | ----------------- |
-| `.NET` | Agile Software Development                              | [ICT 716 - 020](ICT716) | Apr 10, 2025 | Jun 12, 2025 | Thursday          |
-| `.NET` | HTML5 and CSS3                                          | [ICT 580 - 054](ICT580) | Apr 15, 2025 | Jun 17, 2025 | Tuesday           |
-| `.NET` | Building Web Applications with Microsoft ASP.NET and C# | [ICT 713 - 016](ICT713) | Jul 3, 2025  | Aug 5, 2025  | Tuesday, Thursday |
-
-## Pending
-
-Classes that are not available, or I do not meet the prerequisites when the course runs and there is no alternative offering yet.
-
-| Cert   | Course Name                                                  | Course  |
-| ------ | ------------------------------------------------------------ | ------- |
-| `.NET` | Building Database Applications with Microsoft ADO.NET and C# | ICT 714 |
-| `.NET` | Building Advanced Web Applications with ASP.NET and C#       | ICT 715 |
+| Cert   | Course Name                                                  | Course                  | Start Date  | End Date    | Days of the Week  |
+| ------ | ------------------------------------------------------------ | ----------------------- | ----------- | ----------- | ----------------- |
+| `.NET` | Agile Software Development                                   | [ICT 716 - 020](ICT716) |             |             |                   |
+| `.NET` | Building Web Applications with Microsoft ASP.NET and C#      | [ICT 713 - 016](ICT713) | Jul 3, 2025 | Aug 5, 2025 | Tuesday, Thursday |
+| `.NET` | Building Database Applications with Microsoft ADO.NET and C# | [ICT 714](ICT714)       |
+| `.NET` | Building Advanced Web Applications with ASP.NET and C#       | [ICT 715](ICT715)       |
 
 ## Certificate / Program Overview
 
